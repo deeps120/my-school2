@@ -1,0 +1,27 @@
+.header{
+    color: black;
+    display:flex;
+    justify-content: center;
+}
+.title{
+    color: black;
+    display:flex;
+    justify-content: center;
+}
+.menu{
+    display:flex;
+    justify-content: space-evenly;
+}
+.item{
+    display:flex;
+    justify-content: space-evenly;
+}
+.enroll{
+    display:flex;
+    justify-content: center;
+}
+*{
+   
+    background-image: url("d1.jpg");
+    background-size: 1500px,1500px;
+}
